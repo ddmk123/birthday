@@ -10,7 +10,7 @@ var config = {
         "第三个生日了哦",
         "去年的生日",
         "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
+        "今年要吃好的",
         "要把我家可爱猪猪喂饱饱",
         "然后抱走",
         "YAMI~~",
@@ -32,7 +32,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "颜",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
