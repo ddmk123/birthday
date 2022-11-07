@@ -35,7 +35,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "一块钱放音乐",
-        bannar_coming: "一块钱加颜色",
+        bannar_coming: "一块钱加颜色？",
         balloons_flying: "好像少点东西",
         cake_fadein: "一块钱上蛋糕？",
         light_candle: "一块钱点蜡烛？",
